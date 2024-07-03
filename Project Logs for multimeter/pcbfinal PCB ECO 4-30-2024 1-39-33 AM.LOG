@@ -1,0 +1,7 @@
+Change Footprint: Cannot match pads with new footprint in component :J1 Footprint:FP-2269-2-MFG
+Change Component Footprint: Designator=J5 Old Footprint=CUI-PJ-002A_V New Footprint=CUI-PJ-002A_V
+Change Component Description : Designator=D1 Old Description=Diode Standard 1A 1000V 1Vf DO41 New Description=Diode Standard 1A 1000V 1Vf DO41 | Diodes Inc 1N4007-T
+Change Component Description : Designator=D2 Old Description=Diode Standard 1A 1000V 1Vf DO41 New Description=Diode Standard 1A 1000V 1Vf DO41 | Diodes Inc 1N4007-T
+Change Component Description : Designator=D4 Old Description=Diode Standard 1A 1000V 1Vf DO41 New Description=Diode Standard 1A 1000V 1Vf DO41 | Diodes Inc 1N4007-T
+Change Component Description : Designator=D5 Old Description=Diode Standard 1A 1000V 1Vf DO41 New Description=Diode Standard 1A 1000V 1Vf DO41 | Diodes Inc 1N4007-T
+Added Pin To Net: NetName=GND Pin=U2-1

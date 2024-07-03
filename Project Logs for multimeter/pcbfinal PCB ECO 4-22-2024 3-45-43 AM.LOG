@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R38
+Change Component Designator: OldDesignator=R? NewDesignator=R39
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin U6-11
+Add Pin To Net: Unknown Pin: Pin U6-12
+Add Pin To Net: Unknown Pin: Pin U6-13
+Add Pin To Net: Unknown Pin: Pin U6-14
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR38_2

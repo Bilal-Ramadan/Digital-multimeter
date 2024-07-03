@@ -1,0 +1,6 @@
+Change Footprint: Cannot match pads with new footprint in component :J1 Footprint:FP-2269-2-MFG
+Change Component Footprint: Designator=U5 Old Footprint=RELAY (HLS-4078-DC5V) New Footprint=DIP794W45P254L1969H508Q16 - duplicate
+Added Pin To Net: NetName=-VCC Pin=U5-11
+Added Pin To Net: NetName=NetU5_12 Pin=U5-12
+Added Pin To Net: NetName=NetR22_2 Pin=U5-13
+Added Pin To Net: NetName=nvolt Pin=U5-14

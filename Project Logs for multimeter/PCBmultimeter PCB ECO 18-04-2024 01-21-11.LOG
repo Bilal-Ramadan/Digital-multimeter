@@ -1,0 +1,31 @@
+Change Component Description : Designator=D2 Old Description=Diode Standard 1A 1000V 1Vf DO41 New Description=Diode Standard 1A 1000V 1Vf DO41 | Diodes Inc 1N4007-T
+Change Component Description : Designator=D3 Old Description=Diode Standard 1A 1000V 1Vf DO41 New Description=Diode Standard 1A 1000V 1Vf DO41 | Diodes Inc 1N4007-T
+Added Component: Designator=k3(Relay (HLS-4078-DC5V))
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Helishun"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "HLS-14F3L-DC12V-C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/HLS-14F3L-DC12V-C/Helishun/view-part/105888/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=K4(Relay (HLS-4078-DC5V))
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Helishun"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "HLS-14F3L-DC12V-C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/HLS-14F3L-DC12V-C/Helishun/view-part/105888/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=pJack Pin=k3-1
+Added Pin To Net: NetName=V1IN_A Pin=k3-3
+Added Pin To Net: NetName=Netk3_4 Pin=k3-4
+Added Pin To Net: NetName=NetD2_K Pin=k3-5
+Added Pin To Net: NetName=Netk3_6 Pin=k3-6
+Added Pin To Net: NetName=pJack Pin=k3-8
+Added Pin To Net: NetName=NetK4_1 Pin=K4-1
+Added Pin To Net: NetName=NetK4_2 Pin=K4-2
+Added Pin To Net: NetName=Netk3_6 Pin=K4-3
+Added Pin To Net: NetName=NetD3_K Pin=K4-4
+Added Pin To Net: NetName=NetK4_5 Pin=K4-5
+Add Pin To Net: Unknown Pin: Pin V1-1
+Add Pin To Net: Unknown Pin: Pin V1-2

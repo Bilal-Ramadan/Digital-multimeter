@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: C:\Users\saleh\OneDrive\Desktop\RiscTackers+\RiscTackers+\RiscTackers+\RiscTackers\RiscTackers\pcbfinal.PcbDoc
+RuleKind=Width|RuleName=Width_4|Scope=Board|Minimum=39.37
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=3.94
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=39.37
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=15.75
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

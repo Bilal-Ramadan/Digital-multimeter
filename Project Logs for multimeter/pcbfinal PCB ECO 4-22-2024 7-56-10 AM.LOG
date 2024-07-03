@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=VDD Pin=U4-4
+Removed Pin From Net: NetName=VDD Pin=U5-4
+Removed Pin From Net: NetName=VDD Pin=U6-4
+Removed Pin From Net: NetName=VDD Pin=U8-4
+Change Footprint: Cannot match pads with new footprint in component :J1 Footprint:FP-2269-2-MFG
+Change Component Description : Designator=D1 Old Description=Diode Standard 1A 1000V 1Vf DO41 New Description=Diode Standard 1A 1000V 1Vf DO41 | Diodes Inc 1N4007-T
+Change Component Description : Designator=D2 Old Description=Diode Standard 1A 1000V 1Vf DO41 New Description=Diode Standard 1A 1000V 1Vf DO41 | Diodes Inc 1N4007-T
+Change Component Description : Designator=D4 Old Description=Diode Standard 1A 1000V 1Vf DO41 New Description=Diode Standard 1A 1000V 1Vf DO41 | Diodes Inc 1N4007-T
+Change Component Description : Designator=D5 Old Description=Diode Standard 1A 1000V 1Vf DO41 New Description=Diode Standard 1A 1000V 1Vf DO41 | Diodes Inc 1N4007-T
+Added Pin To Net: NetName=VDD2 Pin=U4-4
+Added Pin To Net: NetName=VDD2 Pin=U5-4
+Added Pin To Net: NetName=VDD2 Pin=U6-4
+Added Pin To Net: NetName=VDD2 Pin=U8-4

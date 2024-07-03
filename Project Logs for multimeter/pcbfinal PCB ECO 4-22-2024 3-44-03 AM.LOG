@@ -1,0 +1,51 @@
+Removed Pin From Net: NetName=SEL0 Pin=R2-1
+Removed Pin From Net: NetName=NetQ1_2 Pin=R2-2
+Removed Pin From Net: NetName=SEL1 Pin=R3-1
+Removed Pin From Net: NetName=NetQ2_2 Pin=R3-2
+Removed Pin From Net: NetName=VDD2 Pin=R38-1
+Removed Pin From Net: NetName=NetD7_A Pin=R39-1
+Removed Pin From Net: NetName=VDD Pin=R39-2
+Added Component: Designator=R?(RESAD1520W70L1030D380)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MFR-25DRE52-82R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESAD1520W70L1030D380)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MFR-25DRE52-82R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESAD1520W70L1030D380)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MFR-25DRE52-82R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESAD1520W70L1030D380)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MFR-25DRE52-82R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin J1-1
+Added Pin To Net: NetName=NetD7_A Pin=R?-1
+Added Pin To Net: NetName=NetQ1_2 Pin=R?-1
+Added Pin To Net: NetName=NetQ2_2 Pin=R?-1
+Added Pin To Net: NetName=VDD2 Pin=R?-1
+Added Pin To Net: NetName=SEL0 Pin=R?-2
+Added Pin To Net: NetName=SEL1 Pin=R?-2
+Added Pin To Net: NetName=VDD Pin=R?-2
+Add Pin To Net: Unknown Pin: Pin U6-11
+Add Pin To Net: Unknown Pin: Pin U6-12
+Add Pin To Net: Unknown Pin: Pin U6-13
+Add Pin To Net: Unknown Pin: Pin U6-14
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=U10-1
+Added Pin To Net: NetName=NetR?_2 Pin=VR8-2
+Added Net: Name=NetR?_2
